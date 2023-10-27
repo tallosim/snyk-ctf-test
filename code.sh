@@ -1,3 +1,3 @@
 #!/bin/bash
 
-id > hello.txt
+id > /home/challenge/gethub/repositories/snyk-ctf-test/hello.txt
